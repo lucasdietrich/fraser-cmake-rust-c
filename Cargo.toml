@@ -1,0 +1,6 @@
+#workspace
+
+[workspace]
+members = [
+    "common-rust"
+]
